@@ -1,27 +1,26 @@
 # airbnb-clone
 # Wanderlust
-**Features**
-<u>This text is underlined</u>
+**FEATURES**
 
-<u>User Authentication:</u> Secure registration and login with Passport.js.
+**User Authentication:** Secure registration and login with Passport.js.
 
-<u>Listings Management:</u> Create, view, edit, and delete travel accommodations.
+**Listings Management:** Create, view, edit, and delete travel accommodations.
 
-<u>Review System:</u> Add, view, and manage reviews with a rating feature.
+**Review System:** Add, view, and manage reviews with a rating feature.
 
-<u>Flash Messaging:</u> Real-time success and error messages using connect-flash.
+**Flash Messaging:** Real-time success and error messages using connect-flash.
 
-<u>Session Management:</u> Persistent user sessions with express-session.
+**Session Management:** Persistent user sessions with express-session.
 
-<u>Responsive Design:</u> Frontend styled with Bootstrap for seamless user experience.
+**Responsive Design:** Frontend styled with Bootstrap for seamless user experience.
 
-<u>Validation:</u> Server-side form validation to ensure robust data handling.
+**Validation:** Server-side form validation to ensure robust data handling.
 
-<u>Error Handling:</u> Custom error pages for a smoother user experience.
+**Error Handling:** Custom error pages for a smoother user experience.
 
-<u>Database:</u> MongoDB integration for data storage and retrieval.
+**Database:** MongoDB integration for data storage and retrieval.
 
-<u>EJS Templating:</u> Dynamic and reusable HTML templates.
+**EJS Templating:** Dynamic and reusable HTML templates.
 
 ![image](https://github.com/user-attachments/assets/a337cb15-6e9a-4cfb-b0e4-2945cac664f5)
 ![image](https://github.com/user-attachments/assets/41b7a381-3910-4378-9616-8b7f604aa11c)
