@@ -1,6 +1,7 @@
 # airbnb-clone
 # Wanderlust
 **Features**
+<u>This text is underlined</u>
 
 <u>User Authentication:</u> Secure registration and login with Passport.js.
 
